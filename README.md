@@ -33,22 +33,7 @@
 
 - [AV-TranSpeech: Audio-Visual Robust Speech-to-Speech Translation.](https://arxiv.org/abs/2305.15403) Rongjie Haung\*, **Xize Cheng**\*, Huadai Liu\*, Yi Ren, Linjun Li, Zhenhui Ye, Jinzheng He, Lichao Zhang, Jinglin Liu, Xiang Yin, Zhou Zhao. **ACL2023**
 
-- [Contrastive Token-Wise Meta-Learning for Unseen Performer Visual Temporal-Aligned Translation.](https://aclanthology.org/2023.findings-acl.699/) Linjun Li\*, Tao Jin\*, **Xize Cheng**\*, Ye Wang, Wang Lin, Rongjie Huang and Zhou Zhao. **ACL2023finding**
+- [Contrastive Token-Wise Meta-Learning for Unseen Performer Visual Temporal-Aligned Translation.](https://aclanthology.org/2023.findings-acl.699/) Linjun Li\*, Tao Jin\*, **Xize Cheng**\*, Ye Wang, Wang Lin, Rongjie Huang and Zhou Zhao. **ACL2023**
 
 - [Rethinking Missing Modality Learning from a Decoding Perspective.](https://dl.acm.org/doi/abs/10.1145/3581783.3612291) Tao Jin, **Xize Cheng**, Linjun Li, Wang Lin, Ye Wang, Zhou Zhao. **ACMMM2023**
   
-## Multi-modality Interpretation
-
-- [Connecting Multi-modal Contrastive Representations.](https://arxiv.org/abs/2305.14381) Zehan Wang, Yang Zhao, **Xize Cheng**, Haifeng Huang, Jiageng Liu, Li Tang, Linjun Li, Yongqi Wang, Aoxiong Yin, Ziang Zhang, Zhou Zhao. **NIPS2023**
-
-- [3drp-net: 3d relative position-aware network for 3d visual grounding.](https://arxiv.org/pdf/2307.13363) Zehan Wang, Haifeng Huang, Yang Zhao, Linjun Li, **Xize Cheng**, Yichen Zhu, Aoxiong Yin, Zhou Zhao. **EMNLP2023**
-
-- [Distilling Coarse-to-Fine Semantic Matching Knowledge for Weakly Supervised 3D Visual Grounding.]() Zehan Wang, Haifeng Huang, Yang Zhao, **Xize Cheng**, Linjun Li, Yichen Zhu and Zhou Zhao. **ICCV2023**
-
-- [Exploring Group Video Captioning with Efficient Relational Approximation.]() Wang Lin, Tao Jin, Ye Wang, Wenwen Pan, Linjun Li, **Xize Cheng**, Zhou Zhao **ICCV2023**
-  
-- [Weakly-Supervised Spoken Video Grounding via Semantic Interaction Learning.](https://aclanthology.org/2023.acl-long.611/) Ye Wang, Wang Lin, Shengyu Zhang, Tao Jin, Linjun Li, **Xize Cheng** and Zhou Zhao. **ACL2023(Oral)**
-
-- [TAVT: Towards Transferable Audio-Visual Text Generation.](https://aclanthology.org/2023.acl-long.836) Wang Lin, Tao Jin, Wenwen Pan, Linjun Li, **Xize Cheng**, Ye Wang and Zhou Zhao. **ACL2023**
-
-- [Semantic-conditioned Dual Adaptation for Cross-domain Query-based Visual Segmentation.](https://aclanthology.org/2023.findings-acl.621/) Ye Wang, Tao Jin, Wang Lin, **Xize Cheng**, Linjun Li and Zhou Zhao. **ACL2023finding**
